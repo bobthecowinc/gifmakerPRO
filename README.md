@@ -22,7 +22,7 @@
 
 ## Download
 
-1. Go to the **[Releases](#)** page.  
+1. Go to the **[Releases](https://github.com/bobthecowinc/gifmakerPRO/releases)** page.  
 2. Download the latest version of `gifmakerPRO.exe`.  
 3. Place the EXE in the folder with the images you want to convert.
 
